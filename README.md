@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CokdePutra
 - 👀 I’m interested in Website Development
-- 🌱 I’m currently learning VUE
+- 🌱 I’m currently learning NEXT JS
 
 <!---
 CokdePutra/CokdePutra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
